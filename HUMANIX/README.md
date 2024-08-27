@@ -1,8 +1,17 @@
-# React + Vite
+# Humanix
+This repository contains the code for Humanix , an Google Gemini AI Powered website which coverts AI generated responses to humaized text.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:
 
-Currently, two official plugins are available:
+● Visually appealing design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+● Clear calls to action
+
+
+# Technologies Used:
+
+● HTML
+
+● CSS (TailwindCSS)
+
+● JavaScript (React.js)
